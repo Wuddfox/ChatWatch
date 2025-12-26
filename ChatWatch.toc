@@ -1,0 +1,8 @@
+## Interface: 11508
+## Title: ChatWatch
+## Notes: Watches chat for user phrases; plays sound + flashes matching phrase.
+## Author: You
+## Version: 1.0.0
+## SavedVariables: ChatWatchDB
+
+ChatWatch.lua
